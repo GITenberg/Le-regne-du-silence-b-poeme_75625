@@ -1,5 +1,8 @@
 _repo: Le-regne-du-silence-b-poeme_75625
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75625-h/images/cover.jpg
 creator:
   author:
     agent_name: Rodenbach, Georges
@@ -13,6 +16,8 @@ creator:
     - https://en.wikipedia.org/wiki/Georges_Rodenbach
 description: 'Reading ease score: 68.5 (8th & 9th grade). Neither easy nor difficult
   to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75625#Le-regne-du-silence-b-poeme
 gutenberg_bookshelf:
 - 'Browsing: Literature'
 - 'Browsing: Poetry'
